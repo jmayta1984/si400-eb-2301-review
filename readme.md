@@ -11,7 +11,7 @@
 - [Grabación](https://us-lti.bbcollab.com/recording/1f281e5bb6eb459b9c49df69ff08fb5e)
 - [Ejercicios JSON Schema Validation](https://github.com/jmayta1984/mongodb/blob/main/jsonschema-mongodb.js)
 - [Base de datos Sample Mflix](https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/)
-- [Ejercicios de consultas utilizando la base de datos Sample Mflix](https://github.com/jmayta1984/mongodb/blob/main/queries-mongodb)
+- [Ejercicios sobre la base de datos Sample Mflix](https://github.com/jmayta1984/mongodb/blob/main/queries-mongodb)
 
 ## Examen final 2022-02
 - [Solucionario](https://upcedupe-my.sharepoint.com/:b:/g/personal/pcsijmay_upc_edu_pe1/ESUGpHq6nqNHnco6Yz8ajbQBbMrTkugAYlvAG26QqyE0Ww?e=Mda8tF)
